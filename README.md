@@ -1,0 +1,2 @@
+# CropDiseaseIdentificationSystem
+植物病虫害检测系统
