@@ -1,0 +1,6 @@
+train: E:/study/GraduationDesign/reference/CropDiseaseIdentificationSystem/yolo_cropDisease_detection_web/yolo_cropDisease_detection_flask/dataset/rice_dataset/images/train
+val: E:/study/GraduationDesign/reference/CropDiseaseIdentificationSystem/yolo_cropDisease_detection_web/yolo_cropDisease_detection_flask/dataset/rice_dataset/images/valid
+test: E:/study/GraduationDesign/reference/CropDiseaseIdentificationSystem/yolo_cropDisease_detection_web/yolo_cropDisease_detection_flask/dataset/rice_dataset/images/test
+
+nc: 3
+names: ['Brown_Spot（褐斑病）', 'Rice_Blast（稻瘟病）', 'Bacterial_Blight（细菌性叶枯病）']

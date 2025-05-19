@@ -1,0 +1,6 @@
+train: E:/study/GraduationDesign/reference/CropDiseaseIdentificationSystem/yolo_cropDisease_detection_web/yolo_cropDisease_detection_flask/dataset/corn_dataset/train/images
+val: E:/study/GraduationDesign/reference/CropDiseaseIdentificationSystem/yolo_cropDisease_detection_web/yolo_cropDisease_detection_flask/dataset/corn_dataset/valid/images
+test: E:/study/GraduationDesign/reference/CropDiseaseIdentificationSystem/yolo_cropDisease_detection_web/yolo_cropDisease_detection_flask/dataset/corn_dataset/test/images
+
+nc: 4
+names: ['blight（疫病）', 'common_rust（普通锈病）', 'gray_spot（灰斑病）', 'health（健康）']

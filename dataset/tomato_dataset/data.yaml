@@ -1,0 +1,6 @@
+train: E:/study/GraduationDesign/reference/CropDiseaseIdentificationSystem/yolo_cropDisease_detection_web/yolo_cropDisease_detection_flask/dataset/tomato_dataset/train/images
+val: E:/study/GraduationDesign/reference/CropDiseaseIdentificationSystem/yolo_cropDisease_detection_web/yolo_cropDisease_detection_flask/dataset/tomato_dataset/valid/images
+test: E:/study/GraduationDesign/reference/CropDiseaseIdentificationSystem/yolo_cropDisease_detection_web/yolo_cropDisease_detection_flask/dataset/tomato_dataset/test/images
+
+nc: 9
+names: ['Early Blight（早疫病）', 'Healthy（健康）', 'Late Blight（晚疫病）', 'Leaf Miner（潜叶病）', 'Leaf Mold（叶霉病）', 'Mosaic Virus（花叶病毒）', 'Septoria（壳针孢属）', 'Spider Mites（蜘蛛螨）', 'Yellow Leaf Curl Virus（黄化卷叶病毒	）']

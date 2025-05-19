@@ -1,0 +1,7 @@
+train: E:/study/GraduationDesign/reference/CropDiseaseIdentificationSystem/yolo_cropDisease_detection_web/yolo_cropDisease_detection_flask/dataset/strawberry_dataset/train/images
+val: E:/study/GraduationDesign/reference/CropDiseaseIdentificationSystem/yolo_cropDisease_detection_web/yolo_cropDisease_detection_flask/dataset/strawberry_dataset/valid/images
+test: E:/study/GraduationDesign/reference/CropDiseaseIdentificationSystem/yolo_cropDisease_detection_web/yolo_cropDisease_detection_flask/dataset/strawberry_dataset/test/images
+
+nc: 7
+names: ['Angular Leafspot（角斑病）', ' Anthracnose Fruit Rot（炭疽果腐病）', 'Blossom Blight（花枯病）',
+       'Gray Mold（灰霉病）', ' Leaf Spot（叶斑病）', 'Powdery Mildew Fruit（白粉病果）', 'Powdery Mildew Leaf（白粉病叶）']
